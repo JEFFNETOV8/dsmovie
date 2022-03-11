@@ -9,8 +9,8 @@
 Essa é uma aplicação full stack com backend em Spring e frontend em React. Essa aplicação gerencia um sistema de classificação de filmes. O backend está hospedado no Heroku e o frontend está hospedado no netlify
 
 # Links da aplicação
-<a src="https://v8-dsmovie.netlify.app/">Link do frontend no netlify</a>
-<a src="https://v8-dsmovie.herokuapp.com/movies">Link do backend no Heroku</a>
+<a href="https://v8-dsmovie.netlify.app">Link do frontend no netlify</a>
+<a href="https://v8-dsmovie.herokuapp.com/movies">Link do backend no Heroku</a>
 
 # Tecnologias usadas no backend
 - Java
