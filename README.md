@@ -1,7 +1,9 @@
 # Aplicação full stack desenvolvida com Spring e React
 
 ## Imagens do frontend React
-<img src="" width="" height=""/>
+<img src="https://github.com/JEFFNETOV8/dsmovie/blob/main/frontend/src/assets/imagens_readme/index.png" width="100%" height="50%"/>
+
+<img src="https://github.com/JEFFNETOV8/dsmovie/blob/main/frontend/src/assets/imagens_readme/index.png" width="100%" height="50%"/>
 
 # Sobre a aplicação
 Essa é uma aplicação full stack com backend em Spring e frontend em React. Essa aplicação gerencia um sistema de classificação de filmes. O backend está hospedado no Heroku e o frontend está hospedado no netlify
