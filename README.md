@@ -7,10 +7,8 @@ Jefferson Neto
 Projeto full stack construido na semana Spring React do [Devsuperior](https://devsuperior.com.br/). 
 A aplicação consiste em mostrar uma página de filmes que podem ser avaliados no formulário e atualizados com a quantidade de avaliadores e suas respectivas avalições.
 <br>
-Link da aplicação: [DSMovie](https://v8-dsmovie.netlify.app/)
-![](https://github.com/JEFFNETOV8/dsmovie/blob/main/frontend/src/assets/img_readme/index.png)
-![](https://github.com/JEFFNETOV8/dsmovie/blob/main/frontend/src/assets/img_readme/form.png)
-![](https://github.com/JEFFNETOV8/dsmovie/blob/main/frontend/src/assets/img_readme/index-alterado.png)
+Link da aplicação: [DSMovie](https://v8-dsmovie.netlify.app/) <br>
+![](https://github.com/JEFFNETOV8/dsmovie/blob/main/frontend/projeto.gif)
 
 ## Tecnologias utilizadas
 ### Back end
