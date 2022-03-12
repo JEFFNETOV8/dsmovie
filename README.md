@@ -1,7 +1,7 @@
 # DSMovie
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/JEFFNETOV8/dsmovie/blob/main/LICENSE)
 ## Autor
-Jefferson Neto	/apm/l/:packageName
+Jefferson Neto
 
 # Sobre o projeto
 Projeto full stack construido na semana Spring React do [Devsuperior](https://devsuperior.com.br/). 
