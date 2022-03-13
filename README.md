@@ -10,13 +10,13 @@ Link da aplicação: [DSMovie](https://v8-dsmovie.netlify.app/) <br><br>
 ![](https://github.com/JEFFNETOV8/dsmovie/blob/main/frontend/projeto.gif)
 
 ## Tecnologias utilizadas
-### Back end
+### Back-end
 * Java
 * Sprinf Boot
 * JPA
 * Maven
 
-### Front end
+### Front-end
 * HTML / CSS / TypeScript
 * ReactJS
 
@@ -26,7 +26,7 @@ Link da aplicação: [DSMovie](https://v8-dsmovie.netlify.app/) <br><br>
 * Banco de Dados: Postgresql
 
 ## Como executar o projeto
-### Backend
+### Back-end
 Pré-requisitos: Java 11
 
 ```
@@ -40,7 +40,7 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-### Front end
+### Front-end
 Pré-requisitos: npm / yarn
 
 ```
